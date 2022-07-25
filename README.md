@@ -17,6 +17,10 @@ This example packages Camunda BPM platform as Spring Boot Web application with f
 - Introduction and welcome page - launchpad
 - Swagger UI + OpenSchema.json
 
+
+
+![Launchpad](camundaComunityvsEntreprise.jpg)
+
 ![Launchpad](src/main/resources/static/launchpad/launchpad.png)
 
 ![Tasklist](src/main/resources/static/launchpad/tasklist.png)
