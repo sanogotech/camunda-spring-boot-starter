@@ -27,6 +27,11 @@ This example packages Camunda BPM platform as Spring Boot Web application with f
 
 ![Swagger UI](src/main/resources/static/launchpad/swagger.png)
 
+##  Tuning for Production
+
+- https://spring.io/blog/2015/12/10/spring-boot-memory-performance
+- https://jit.at/how-to-deploy-a-camunda-spring-boot-application/?lang=en
+
 ## Building
 
 Execute following:
